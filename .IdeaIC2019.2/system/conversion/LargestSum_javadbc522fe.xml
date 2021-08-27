@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\.idea\encodings.xml" timestamp="1624711181444" />
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\.idea\misc.xml" timestamp="1624711181241" />
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\.idea\modules.xml" timestamp="1624711181523" />
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\.idea\project-template.xml" timestamp="1624710989083" />
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\.idea\workspace.xml" timestamp="1624713208418" />
+    <file path="C:\Users\danie\IdeaProjects\LargestSum.java\LargestSum.java.iml" timestamp="1624710989098" />
+  </project-files>
+</conversion>
+

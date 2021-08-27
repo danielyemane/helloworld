@@ -1,0 +1,11 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = danielyemane
+	email = danielhagos019@gmail.com
+	mail = [danielhagos019@gmail.com]
+[color]
+	ui = auto
